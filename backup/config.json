@@ -1,9 +1,0 @@
-{
-  "project": "NavCoin",
-  "repositories": [{
-    "name": "NavCoin Core",
-    "owner": "NavCoin",
-    "repo": "navcoin-core",
-    "stats": ["commit_activity"]
-  }]
-}
